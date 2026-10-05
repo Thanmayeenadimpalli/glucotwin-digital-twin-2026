@@ -1,0 +1,23 @@
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+.env
+
+# Node / React
+node_modules/
+dist/
+build/
+.DS_Store
+
+# IDE / Gemini
+.idea/
+.vscode/
+.gemini/
+*.log
+
+# Temporary test outputs
+scratch/

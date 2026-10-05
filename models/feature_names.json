@@ -1,0 +1,21 @@
+[
+  "current_glucose",
+  "glucose_mean_3h",
+  "glucose_std_3h",
+  "glucose_slope_3h",
+  "carbs_sum_2h",
+  "carbs_sum_4h",
+  "steps_sum_3h",
+  "steps_sum_6h",
+  "hr_mean_3h",
+  "stress_mean_3h",
+  "sleep_hours_last_night",
+  "age",
+  "sex",
+  "bmi",
+  "hba1c",
+  "fasting_glucose",
+  "hypertension",
+  "family_history_diabetes",
+  "activity_level_baseline"
+]

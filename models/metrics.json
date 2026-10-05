@@ -1,0 +1,134 @@
+{
+  "best_model_name": "XGBoost",
+  "best_model_metrics": {
+    "accuracy": 0.8189,
+    "precision": 0.5,
+    "recall": 0.8704,
+    "f1": 0.6351,
+    "roc_auc": 0.9027,
+    "pr_auc": 0.6239,
+    "threshold": 0.55,
+    "confusion_matrix": [
+      [
+        2169,
+        517
+      ],
+      [
+        77,
+        517
+      ]
+    ],
+    "confusion_matrix_breakdown": {
+      "tp": 517,
+      "tn": 2169,
+      "fp": 517,
+      "fn": 77
+    }
+  },
+  "all_model_experiments": {
+    "LogisticRegression": {
+      "accuracy": 0.6595,
+      "precision": 0.3098,
+      "recall": 0.7172,
+      "f1": 0.4327,
+      "roc_auc": 0.7468,
+      "pr_auc": 0.393,
+      "threshold": 0.55,
+      "confusion_matrix": [
+        [
+          1737,
+          949
+        ],
+        [
+          168,
+          426
+        ]
+      ],
+      "confusion_matrix_breakdown": {
+        "tp": 426,
+        "tn": 1737,
+        "fp": 949,
+        "fn": 168
+      }
+    },
+    "RandomForest": {
+      "accuracy": 0.8338,
+      "precision": 0.5298,
+      "recall": 0.734,
+      "f1": 0.6154,
+      "roc_auc": 0.8842,
+      "pr_auc": 0.5807,
+      "threshold": 0.55,
+      "confusion_matrix": [
+        [
+          2299,
+          387
+        ],
+        [
+          158,
+          436
+        ]
+      ],
+      "confusion_matrix_breakdown": {
+        "tp": 436,
+        "tn": 2299,
+        "fp": 387,
+        "fn": 158
+      }
+    },
+    "XGBoost": {
+      "accuracy": 0.8189,
+      "precision": 0.5,
+      "recall": 0.8704,
+      "f1": 0.6351,
+      "roc_auc": 0.9027,
+      "pr_auc": 0.6239,
+      "threshold": 0.55,
+      "confusion_matrix": [
+        [
+          2169,
+          517
+        ],
+        [
+          77,
+          517
+        ]
+      ],
+      "confusion_matrix_breakdown": {
+        "tp": 517,
+        "tn": 2169,
+        "fp": 517,
+        "fn": 77
+      }
+    }
+  },
+  "feature_importances": {
+    "carbs_sum_4h": 0.8254,
+    "carbs_sum_2h": 0.5492,
+    "steps_sum_6h": 0.5118,
+    "steps_sum_3h": 0.4852,
+    "current_glucose": 0.4795,
+    "hr_mean_3h": 0.3112,
+    "stress_mean_3h": 0.2235,
+    "hba1c": 0.2171,
+    "fasting_glucose": 0.2085,
+    "bmi": 0.1746,
+    "glucose_mean_3h": 0.1362,
+    "glucose_slope_3h": 0.1064,
+    "sleep_hours_last_night": 0.0665,
+    "glucose_std_3h": 0.0661,
+    "activity_level_baseline": 0.0611,
+    "age": 0.0262,
+    "sex": 0.0151,
+    "family_history_diabetes": 0.0047,
+    "hypertension": 0.0026
+  },
+  "selected_threshold": 0.55,
+  "train_patient_count": 40,
+  "test_patient_count": 10,
+  "test_sample_count": 3280,
+  "target_distribution": {
+    "train_pos_pct": 0.1818,
+    "test_pos_pct": 0.1811
+  }
+}

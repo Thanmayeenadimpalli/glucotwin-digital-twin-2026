@@ -1,0 +1,51 @@
+patient_id,name,age,sex,bmi,hba1c,fasting_glucose,hypertension,family_history_diabetes,activity_level_baseline,smoking_status
+GT-001,Alex Mercer (Demo - Moderate Baseline Risk),48,M,27.5,6.1,112.0,1,1,Moderate,Former
+GT-002,Brenda Vance (Demo - High Baseline Risk),56,F,33.8,7.4,148.0,1,1,Sedentary,Current
+GT-003,Charles Chen (Demo - Low Baseline Risk),32,M,22.4,5.2,88.0,0,0,Active,Never
+GT-004,Synthetic Patient GT-004,63,F,22.5,5.9,106.2,1,0,Sedentary,Current
+GT-005,Synthetic Patient GT-005,68,F,32.0,5.7,97.8,1,1,Sedentary,Never
+GT-006,Synthetic Patient GT-006,68,M,31.2,5.1,85.1,1,0,Moderate,Former
+GT-007,Synthetic Patient GT-007,68,M,24.2,5.8,104.4,1,0,Moderate,Never
+GT-008,Synthetic Patient GT-008,42,F,27.9,6.1,108.5,1,1,Moderate,Former
+GT-009,Synthetic Patient GT-009,32,M,27.4,5.3,85.8,1,0,Moderate,Never
+GT-010,Synthetic Patient GT-010,28,F,18.5,4.8,81.5,0,0,Moderate,Current
+GT-011,Synthetic Patient GT-011,45,F,29.0,5.9,113.0,0,0,Moderate,Never
+GT-012,Synthetic Patient GT-012,53,M,19.1,4.8,83.8,0,0,Active,Former
+GT-013,Synthetic Patient GT-013,52,M,23.4,5.5,101.8,1,0,Moderate,Former
+GT-014,Synthetic Patient GT-014,68,F,29.6,5.0,86.6,1,0,Moderate,Never
+GT-015,Synthetic Patient GT-015,38,M,27.1,5.5,91.2,1,0,Moderate,Never
+GT-016,Synthetic Patient GT-016,28,F,28.8,5.0,77.9,0,0,Moderate,Current
+GT-017,Synthetic Patient GT-017,66,M,28.4,5.5,94.4,1,0,Sedentary,Never
+GT-018,Synthetic Patient GT-018,35,F,24.3,5.3,89.6,0,0,Sedentary,Never
+GT-019,Synthetic Patient GT-019,33,F,20.9,5.2,88.0,0,0,Sedentary,Never
+GT-020,Synthetic Patient GT-020,65,F,28.7,5.9,95.2,1,1,Sedentary,Former
+GT-021,Synthetic Patient GT-021,26,F,27.4,5.4,95.3,1,0,Active,Never
+GT-022,Synthetic Patient GT-022,28,M,24.0,5.9,100.8,0,0,Moderate,Never
+GT-023,Synthetic Patient GT-023,57,M,33.7,5.4,91.0,1,1,Moderate,Former
+GT-024,Synthetic Patient GT-024,43,F,20.5,5.5,90.7,0,0,Active,Never
+GT-025,Synthetic Patient GT-025,52,M,29.6,5.6,101.0,1,0,Active,Never
+GT-026,Synthetic Patient GT-026,73,F,32.0,6.2,108.4,1,0,Active,Current
+GT-027,Synthetic Patient GT-027,57,F,23.7,6.1,114.7,1,0,Sedentary,Current
+GT-028,Synthetic Patient GT-028,49,M,23.1,4.9,68.4,0,1,Sedentary,Never
+GT-029,Synthetic Patient GT-029,72,F,23.9,6.6,116.5,1,0,Sedentary,Never
+GT-030,Synthetic Patient GT-030,46,M,29.9,4.9,82.7,1,0,Moderate,Never
+GT-031,Synthetic Patient GT-031,57,F,29.4,6.4,117.8,1,1,Moderate,Never
+GT-032,Synthetic Patient GT-032,73,F,26.9,6.4,113.5,1,0,Active,Never
+GT-033,Synthetic Patient GT-033,42,M,31.0,6.4,114.1,1,0,Sedentary,Never
+GT-034,Synthetic Patient GT-034,71,F,21.6,5.3,86.5,1,0,Sedentary,Former
+GT-035,Synthetic Patient GT-035,63,M,22.2,5.3,83.1,1,1,Moderate,Never
+GT-036,Synthetic Patient GT-036,31,M,22.2,5.7,99.6,1,0,Sedentary,Never
+GT-037,Synthetic Patient GT-037,56,M,24.4,5.0,91.0,1,1,Active,Former
+GT-038,Synthetic Patient GT-038,46,M,23.5,5.4,101.6,1,0,Sedentary,Never
+GT-039,Synthetic Patient GT-039,54,M,28.1,5.3,93.7,1,0,Moderate,Never
+GT-040,Synthetic Patient GT-040,43,F,23.6,6.1,118.1,1,0,Moderate,Never
+GT-041,Synthetic Patient GT-041,72,M,24.5,5.1,91.8,1,0,Moderate,Never
+GT-042,Synthetic Patient GT-042,46,M,20.7,5.2,95.7,1,1,Sedentary,Never
+GT-043,Synthetic Patient GT-043,70,F,24.3,5.7,109.8,1,1,Moderate,Never
+GT-044,Synthetic Patient GT-044,57,F,18.5,4.8,88.3,1,1,Sedentary,Former
+GT-045,Synthetic Patient GT-045,56,M,33.5,7.1,133.3,1,0,Active,Current
+GT-046,Synthetic Patient GT-046,52,F,32.8,6.2,115.1,1,1,Active,Former
+GT-047,Synthetic Patient GT-047,36,M,35.6,6.2,116.7,1,1,Sedentary,Never
+GT-048,Synthetic Patient GT-048,70,F,28.0,5.7,106.6,1,0,Moderate,Never
+GT-049,Synthetic Patient GT-049,65,M,21.7,5.9,101.3,1,0,Active,Former
+GT-050,Synthetic Patient GT-050,45,M,23.8,5.3,95.3,0,0,Sedentary,Former
