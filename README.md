@@ -233,7 +233,7 @@ npm run dev
 - `[DEMO VIDEO LINK PLACEHOLDER — Competition Presentation Recording]`
 
 ## 27. Team
-- `[TEAM NAME PLACEHOLDER — Happiest Health Digital Twin Challenge 2026 Entry]`
+- `Team Name: Thanmayeenadimpalli[— Happiest Health Digital Twin Challenge 2026 Entry]`
 
 ## 28. License
 Distributed under the [MIT License](LICENSE).
